@@ -2,8 +2,10 @@
 <head>
 <title>Goals</title>
 	<style type="text/css">
-		body { font-family: Sans-Serif; padding: 20px; }
-		.btn { padding: 5px; font-weight: 600; border: 1px solid #666; border-radius: 5px; }
+		body { font-family: Sans-Serif; padding: 20px; max-width: 800px; margin: auto; }
+		.btn { padding: 5px; font-weight: 600; border: 1px solid #666; border-radius: 5px; background-color: silver; }
+		.lede { margin-bottom: 0; font-weight: bold; }
+		.goal { border-top: 1px solid #000; }
 	</style>
 </head>
 <body>
@@ -12,7 +14,8 @@
 	</header>
 	<main>
 		<p><button type="button" name="results" class="btn" onclick="GenerateGoals();">Create a goal</button></p>
-		<p id="result" class="result"></p>
+		<p class="lede">My goal:</p>
+		<p id="result" class="goal"></p>
 	</main>		
 		
  <script type="text/javascript">
