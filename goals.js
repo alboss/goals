@@ -47,7 +47,8 @@ array3 = new Array(
   "technolographs",
   "accessibility",
   "process enhancements",
-  "goals"
+  "goals",
+  "a Gonkulator"
 );
 
 /* as measured by */
