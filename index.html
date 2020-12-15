@@ -3,7 +3,7 @@
 <title>Goals</title>
 	<style type="text/css">
 		body { font-family: Sans-Serif; padding: 20px; }
-		.btn { padding: 20px; font-size: 1.1em; }
+		.btn { padding: 10px; font: 1.05em bold; border-radius: 2px; }
 	</style>
 </head>
 <body>
@@ -11,8 +11,8 @@
 		<h1>Workplace goal</h1>
 	</header>
 	<main>
-		<p id="result" class="result"></p>
 		<p><button type="button" name="results" class="btn" onclick="GenerateGoals();">Create a goal</button></p>
+		<p id="result" class="result"></p>
 	</main>		
 		
  <script type="text/javascript">
@@ -42,7 +42,7 @@
             		/* summary */
 	    array8 = new Array("And so it goes", "Good night and good luck", "And that's the way it is", "And they all lived happily ever after", "All's well that ends", "Engage", "Thanks for all the fish", "I can't believe you are still reading this", "And so it goes", "I'm outta here", "Please tell me we are done here", "Don't forget to drink your Ovaltine", "Floss regularly", "Don't run with scissors", "It is forbidden to urinate into the wind");
 
-            strRandomizer = array1[Math.floor(Math.random() * array1.length)] + " " + array2[Math.floor(Math.random() * array2.length)] + " " + array3[Math.floor(Math.random() * array3.length)] + ". " + array4[Math.floor(Math.random() * array4.length)] + " " + array5[Math.floor(Math.random() * array5.length)] + ". This is relevant because " + array6[Math.floor(Math.random() * array6.length)] + ". The target completion date for this effort is " + array7[Math.floor(Math.random() * array7.length)] + " " + array8[Math.floor(Math.random() * array8.length)] + "."
+            strRandomizer = array1[Math.floor(Math.random() * array1.length)] + " " + array2[Math.floor(Math.random() * array2.length)] + " " + array3[Math.floor(Math.random() * array3.length)] + ". " + array4[Math.floor(Math.random() * array4.length)] + " " + array5[Math.floor(Math.random() * array5.length)] + ". This is relevant because " + array6[Math.floor(Math.random() * array6.length)] + ". The target completion date for this effort is " + array7[Math.floor(Math.random() * array7.length)] + ". " + array8[Math.floor(Math.random() * array8.length)] + "."
             document.getElementById("result").innerHTML = strRandomizer;
         }
         </script>
