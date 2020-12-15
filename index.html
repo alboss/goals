@@ -1,11 +1,18 @@
 <html>
 <head>
 <title>Goals</title>
+	<style type="text/css">
+		body { font-family: Sans-Serif; padding: 20px; }
 </head>
 <body>
-<h1>Workplace goal</h1>
-<div id="result" class="result"></div>
-<input type="button" name="results" value="Create a goal" class="btn" onclick="GenerateGoals();">
+	<header>
+		<h1>Workplace goal</h1>
+	</header>
+	<main>
+		<p id="result" class="result"></p>
+		<p><input type="button" name="results" value="Create a goal" class="btn" onclick="GenerateGoals();"></p>
+	</main>		
+		
  <script type="text/javascript">
         function GenerateGoals()
         {
@@ -13,24 +20,27 @@
             array1 = new Array("I will", "I want to", "I am going to", "I shall", "It is my intent to", "I do solemnly swear to", "By Grapthar's hammer, by the suns of Worvan, I shall", "Among my SMART goals for the coming year is to");
 
             /* verb */
-            array2 = new Array("pretend to care about", "comply with this requirement by using", "program", "implement", "document", "improve", "excel at", "equitably bind", "seemlessly diverifest", "cogno-intellectualize", "convert", "proselytize", "evangelize");
+            array2 = new Array("pretend to care about", "comply with this requirement by using", "program", "implement", "document", "improve", "excel at", "equitably bind", "seemlessly diverifest", "cogno-intellectualize", "convert", "proselytize", "evangelize", "interpret");
 
 			/* means */
             array3 = new Array("nanobots", "arbitrary goals", "Javascript and SASS", "obscene amounts of coffee", "as much alcohol as necessary", "artificial intelligence", "maps", "Sitecore", "nothing", "alternative facts", "technolographs", "accessibility", "process enhancements", "goals");
 
  			/* as measured by */
-            array4 = new Array("as measured by", "whose success will be evaluated upon");
+            array4 = new Array("as measured by", "whose success will be evaluated via", "quantified with", "assessed by", "guaged under the auspices of", "judged according to", "calculated by means of", "determined relative to", "appraised commensurate with", "surveyed and ranked as per", "as a calculated proportion of");
 
 			/* method of measurement */
-            array5 = new Array("alternative data", "random numbers");
+            array5 = new Array("alternative data", "random numbers", "Ouija board", "some schizophrenic dude outside the Starbucks", "factoring bus numbers", "a certified tea shaman", "binding the peoplehooves data to the snuurgenfluuge", "uncoupling the Heisenberg compensators", "recalibrating the oscillating Franistadt", "my mood");
 
-            array6 = new Array("");
+            		/* this is relevant because */
+	    array6 = new Array("I said so", "of reasons", "I'm required to fill out this form", "the Angles have the Phone Box", "I saw it on a t-shirt", "I have to believe it is. If it wasn't, then my life would be a meaningless cascade of pointless... oh, shit", "oh, look! A chicken", "it will help me get a job somewhere that doesn't make me do this exercise every year," "with three I get egg rolls", "I talked my boss into thinking it is", I heard it through the grapevine");
 
-            array7 = new Array("");
+            		/* completion date */
+	    array7 = new Array("February 31", "Judgment Day", "the 12th of Never", "Unification Day", "some Tuesday", "2525", "retirement", "one of my birthdays", "the time the US has meaningful gun control", "the time the Seattle Mariners win the Super Bowl", "the End of Days", "the midnight hour, when my love comes tumbling down");
 
-            array8 = new Array("");
+            		/* summary */
+	    array8 = new Array("And so it goes", "Good night and good luck", "And that's the way it is", "And they all lived happily ever after", "All's well that ends", "Engage", "Thanks for all the fish", "I can't believe you are still reading this", "And so it goes", "I'm outta here", "Please tell me we are done here", "Don't forget to drink your Ovaltine", "Floss regularly", "Don't run with scissors", "It is forbidden to urinate into the wind");
 
-            strRandomizer = array1[Math.floor(Math.random() * array1.length)] + " " + array2[Math.floor(Math.random() * array2.length)] + " " + array3[Math.floor(Math.random() * array3.length)] + ". " + array4[Math.floor(Math.random() * array4.length)] + " " + array5[Math.floor(Math.random() * array5.length)] + " " + array6[Math.floor(Math.random() * array6.length)] + " " + array7[Math.floor(Math.random() * array7.length)] + " " + array8[Math.floor(Math.random() * array8.length)] + " "
+            strRandomizer = array1[Math.floor(Math.random() * array1.length)] + " " + array2[Math.floor(Math.random() * array2.length)] + " " + array3[Math.floor(Math.random() * array3.length)] + ". " + array4[Math.floor(Math.random() * array4.length)] + " " + array5[Math.floor(Math.random() * array5.length)] + ". This is relevant because " + array6[Math.floor(Math.random() * array6.length)] + ". The target completion date for this effort is " + array7[Math.floor(Math.random() * array7.length)] + " " + array8[Math.floor(Math.random() * array8.length)] + "."
             document.getElementById("result").innerHTML = strRandomizer;
         }
         </script>
