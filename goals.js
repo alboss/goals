@@ -143,6 +143,7 @@ array8 = new Array(
 
 function GenerateGoals() {
   strRandomizer =
+    "<p>" +
     array1[Math.floor(Math.random() * array1.length)] +
     " " +
     array2[Math.floor(Math.random() * array2.length)] +
@@ -158,7 +159,7 @@ function GenerateGoals() {
     array7[Math.floor(Math.random() * array7.length)] +
     ".</p> <p class='fin'>" +
     array8[Math.floor(Math.random() * array8.length)] +
-    ".</p> <p class='suggestions'><a href='goals.html' target='vars'>See all the variables</a>.</p><p>Suggestions and additions are welcome. <a href='https://github.com/alboss/goals/discussions/1' target='suggestions'>Send me your ideas here</a>.";
+    ".</p> </div><div class='suggestions'><p><a href='goals.html' target='vars'>See all the variables</a>.</p><p>Suggestions and additions are welcome. <a href='https://github.com/alboss/goals/discussions/1' target='suggestions'>Send me your ideas here</a>.";
   document.getElementById("result").innerHTML = strRandomizer;
 }
 
