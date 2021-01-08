@@ -3,8 +3,16 @@ var array1 = new Array(
   "I will",
   "I want to",
   "I am going to",
+  "I am planning to",
   "I shall",
   "It is my intent to",
+  "By my own decree, I shall",
+  "With every fiber of my being, I will",
+  "Harken unto my pledge; for I pledge to",
+  "Hear me, all from mighty to minion, for I am going to",
+  "I'm gonna",
+  "Hold into your hat while I",
+  "Watch carefully while I",
   "I do solemnly swear to",
   "By Grapthar's hammer, by the suns of Worvan, I shall",
   "Among my SMART goals for the coming year is to"
@@ -28,7 +36,11 @@ array2 = new Array(
   "interpret",
   "put a pin in",
   "unpack",
+  "boil the ocean",
   "parking-lot",
+  "disrupt",
+  "drink",
+  "smoke",
   "impact"
 );
 
@@ -48,6 +60,10 @@ array3 = new Array(
   "accessibility",
   "process enhancements",
   "goals",
+  "a new paradigm",
+  "disruptiom",
+  "imaginary hashtags",
+  "spores, sporks, spokes, and sparks",
   "a Gonkulator"
 );
 
@@ -62,8 +78,16 @@ array4 = new Array(
   "calculated by means of",
   "determined relative to",
   "appraised commensurate with",
-  "surveyed and ranked as per",
-  "as a calculated proportion of"
+  "surveyed as per",
+  "ranked by",
+  "enumerated by way of",
+  "classified according to",
+  "completely misinterpreted because of",
+  "mathematicalized using",
+  "broken down by",
+  "decomposed with the help of",
+  "counted using",
+  "as a computed proportion of"
 );
 
 /* method of measurement */
@@ -79,6 +103,15 @@ array5 = new Array(
   "binding the peoplehooves data to the snuurgenfluuge",
   "uncoupling the Heisenberg compensators",
   "recalibrating the oscillating Franistadt",
+  "a need-to-know scale",
+  "dollars",
+  "cubits",
+  "adherence to a no-honk guarantee",
+  "regret",
+  "bitter tears",
+  "degrees of suck",
+  "counting crows",
+  "thread count",
   "my mood"
 );
 
@@ -99,6 +132,9 @@ array6 = new Array(
   "with three I get egg rolls",
   "I talked my boss into thinking it is",
   "someone higher up thinks it's their idea",
+  "it uses as verbs words that are not actual verbs",
+  "I'm a little teapot, short and stout",
+  "the voices told me so",
   "I heard it through the grapevine"
 );
 
@@ -118,6 +154,10 @@ array7 = new Array(
   "by the time the US has meaningful gun control",
   "the time the Seattle Mariners win the Super Bowl",
   "the End of Days",
+  "tomorrow",
+  "yesterday",
+  "when Niagra falls",
+  "the time I reach the border",
   "the midnight hour, when my love comes tumbling down"
 );
 
@@ -139,6 +179,7 @@ array8 = new Array(
   "Don't forget to drink your Ovaltine",
   "Floss regularly",
   "Don't run with scissors",
+  "Hold my beer",
   "It is forbidden to urinate into the wind"
 );
 
