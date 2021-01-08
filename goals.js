@@ -11,9 +11,11 @@ var array1 = new Array(
   "Harken unto my pledge; for I pledge to",
   "Hear me, all from mighty to minion, for I am going to",
   "I'm gonna",
-  "Hold into your hat while I",
+  "Hold on to your hat while I",
   "Watch carefully while I",
   "I do solemnly swear to",
+  "So, here's the plan: I",
+  "In order to serve our cutomers better, I will",
   "By Grapthar's hammer, by the suns of Worvan, I shall",
   "Among my SMART goals for the coming year is to"
 );
@@ -61,9 +63,15 @@ array3 = new Array(
   "process enhancements",
   "goals",
   "a new paradigm",
-  "disruptiom",
+  "disruption",
   "imaginary hashtags",
   "spores, sporks, spokes, and sparks",
+  "things",
+  "innuendo",
+  "all kinds of stuff",
+  "misunderstandings",
+  "a loose grip on reality",
+  "an impressive array of buzzwords",
   "a Gonkulator"
 );
 
@@ -87,6 +95,12 @@ array4 = new Array(
   "broken down by",
   "decomposed with the help of",
   "counted using",
+  "obfuscated by",
+  "made confusing thanks to",
+  "clouded with",
+  "disguised by",
+  "which I will make sound convincing with",
+  "dazzing because of",
   "as a computed proportion of"
 );
 
@@ -112,6 +126,7 @@ array5 = new Array(
   "degrees of suck",
   "counting crows",
   "thread count",
+  "drivel",
   "my mood"
 );
 
@@ -135,6 +150,13 @@ array6 = new Array(
   "it uses as verbs words that are not actual verbs",
   "I'm a little teapot, short and stout",
   "the voices told me so",
+  "these boots were made for walking",
+  "Someone set up us the bomb",
+  "I gotta have more cowbell",
+  "it's my idea",
+  "of a dream I had",
+  "What? Nobody told me it was supposed to be relevant",
+  "I think it's what management wants me to think about",
   "I heard it through the grapevine"
 );
 
@@ -157,7 +179,13 @@ array7 = new Array(
   "tomorrow",
   "yesterday",
   "when Niagra falls",
-  "the time I reach the border",
+  "slightly after the time I cross the border",
+  "really something",
+  "a point in time",
+  "sometime later",
+  "not important, really",
+  "sometime after everyone forgets that I said I'd do it",
+  "every bit as important as the goal itself",
   "the midnight hour, when my love comes tumbling down"
 );
 
@@ -180,6 +208,14 @@ array8 = new Array(
   "Floss regularly",
   "Don't run with scissors",
   "Hold my beer",
+  "All your base are belong to us",
+  "We'll always have Paris,"
+  "We have always been at war with Eastasia",
+  "This one goes up to eleven",
+  "It's turtles all the way down",
+  "I see dead people",
+  "You know what? I think life is like a cosmic hamburger, and each of us is just a sesame seed on the middle bun",
+  "Be alert. We need more Lerts."
   "It is forbidden to urinate into the wind"
 );
 
