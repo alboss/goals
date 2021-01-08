@@ -15,6 +15,7 @@ var array1 = new Array(
   "Watch carefully while I",
   "I do solemnly swear to",
   "So, here's the plan: I",
+  "Management promised somebody I would",
   "In order to serve our cutomers better, I will",
   "By Grapthar's hammer, by the suns of Worvan, I shall",
   "Among my SMART goals for the coming year is to"
@@ -120,6 +121,7 @@ array5 = new Array(
   "a need-to-know scale",
   "dollars",
   "cubits",
+  "the PowerPoint slides we already made",
   "adherence to a no-honk guarantee",
   "regret",
   "bitter tears",
@@ -157,6 +159,7 @@ array6 = new Array(
   "of a dream I had",
   "What? Nobody told me it was supposed to be relevant",
   "I think it's what management wants me to think about",
+  "it has a logo and a tagline"
   "I heard it through the grapevine"
 );
 
