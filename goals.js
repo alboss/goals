@@ -215,7 +215,7 @@ array8 = new Array(
   "It's turtles all the way down",
   "I see dead people",
   "You know what? I think life is like a cosmic hamburger, and each of us is just a sesame seed on the middle bun",
-  "Be alert. We need more Lerts."
+  "Be alert. We need more Lerts",
   "It is forbidden to urinate into the wind"
 );
 
