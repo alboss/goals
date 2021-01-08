@@ -209,7 +209,7 @@ array8 = new Array(
   "Don't run with scissors",
   "Hold my beer",
   "All your base are belong to us",
-  "We'll always have Paris,"
+  "We'll always have Paris",
   "We have always been at war with Eastasia",
   "This one goes up to eleven",
   "It's turtles all the way down",
