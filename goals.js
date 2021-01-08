@@ -151,15 +151,16 @@ array6 = new Array(
   "someone higher up thinks it's their idea",
   "it uses as verbs words that are not actual verbs",
   "I'm a little teapot, short and stout",
+  
   "the voices told me so",
   "these boots were made for walking",
-  "Someone set up us the bomb",
+  "someone set up us the bomb",
   "I gotta have more cowbell",
   "it's my idea",
   "of a dream I had",
   "What? Nobody told me it was supposed to be relevant",
   "I think it's what management wants me to think about",
-  "it has a logo and a tagline"
+  "it has a logo and a tagline",
   "I heard it through the grapevine"
 );
 
