@@ -109,7 +109,7 @@ array4 = new Array(
 array5 = new Array(
   "alternative data",
   "random numbers",
-  "Ouija board",
+  "Ouija boards",
   "Agile protocols",
   "some schizophrenic dude outside the Starbucks",
   "factoring bus numbers",
