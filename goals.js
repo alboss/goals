@@ -44,7 +44,8 @@ array2 = new Array(
   "disrupt",
   "drink",
   "smoke",
-  "impact"
+  "impact",
+  "beep the nose of"
 );
 
 /* means */
@@ -160,7 +161,8 @@ array6 = new Array(
   "...wait, what? Nobody told me it was supposed to be relevant",
   "I think it's what management wants me to think about",
   "it has a logo and a tagline",
-  "I heard it through the grapevine"
+  "I heard it through the grapevine",
+  "the chicken pooped in the right bingo square"
 );
 
 /* completion date */
@@ -189,7 +191,8 @@ array7 = new Array(
   "not important, really",
   "sometime after everyone forgets that I said I'd do it",
   "every bit as important as the goal itself",
-  "the midnight hour, when my love comes tumbling down"
+  "the midnight hour, when my love comes tumbling down",
+  "when the universe has reached a state of no thermodynamic free energy"
 );
 
 /* summary */
@@ -219,7 +222,11 @@ array8 = new Array(
   "I see dead people",
   "You know what? I think life is like a cosmic hamburger, and each of us is just a sesame seed on the middle bun",
   "Be alert. We need more Lerts",
-  "It is forbidden to urinate into the wind"
+  "It is forbidden to urinate into the wind",
+  "Make it so",
+  "So say we all",
+  "Time flies like an arrow. Fruit flies like a banana",
+  "Now look what you've done"
 );
 
 function GenerateGoals() {
