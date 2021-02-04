@@ -183,14 +183,14 @@ array6 = new Array(
   "I heard it through the grapevine",
   "the chicken pooped in the right bingo square",
   "why not? Really",
-  "there's a snake in my boots"
-  "importance and purpose can\'t always be inferred by management",
-  "you can be the ripest, juiciest apple in the world, and there\'s still going to be somebody who loves windows",
+  "there's a snake in my boots",
+  "importance and purpose can't always be inferred by management",
+  "you can be the ripest, juiciest apple in the world, and there's still going to be somebody who loves windows",
   "people will only want to engage if it helps them solve problems",
   "it is creative and I believe in it. Whatever THAT is",
   "it is not something you can actually predict. It is something that will be determined after the fact",
   "I am passionate about personalization",
-  "it becomes irrelevant inside results closely connected to management\'s queries"
+  "it becomes irrelevant inside results closely connected to management's queries"
 );
 
 /* completion date */
@@ -258,8 +258,8 @@ array8 = new Array(
   "Make it so",
   "So say we all",
   "Time flies like an arrow. Fruit flies like a banana",
-  "Now look what you\'ve done",
-  "I won\'t be trapped by dogma - which is living with the results of other people\'s thinking",
+  "Now look what you've done",
+  "I won't be trapped by dogma - which is living with the results of other people's thinking",
   "Unfortunately, however, I cannot refund the time you've spent reading this report",
   "Live long and prosper",
   "Peace out",
