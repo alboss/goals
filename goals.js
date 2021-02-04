@@ -18,7 +18,10 @@ var array1 = new Array(
   "Management promised somebody I would",
   "In order to serve our cutomers better, I will",
   "By Grapthar's hammer, by the suns of Worvan, I shall",
-  "Among my SMART goals for the coming year is to"
+  "Among my SMART goals for the coming year is to",
+  "After careful consideration I've decided to",
+  "In order to demonstrate my superior capabilities, I have resolved to",
+  "To reinforce the directorate guidance contribution to personal assigned tasks at hand, my actions will only slightly deviate from my original intentions in which I"
 );
 
 /* verb */
@@ -45,7 +48,10 @@ array2 = new Array(
   "drink",
   "smoke",
   "impact",
-  "beep the nose of"
+  "beep the nose of",
+  "crack out on",
+  "actuate",
+  "influence the workload of"
 );
 
 /* means */
@@ -74,7 +80,11 @@ array3 = new Array(
   "misunderstandings",
   "a loose grip on reality",
   "an impressive array of buzzwords",
-  "a Gonkulator"
+  "a Gonkulator",
+  "widgets",
+  "fiscal responsibility",
+  "investments in beanie babies",
+  "gizmos developed"
 );
 
 /* as measured by */
@@ -103,7 +113,11 @@ array4 = new Array(
   "disguised by",
   "which I will make sound convincing with",
   "dazzing because of",
-  "as a computed proportion of"
+  "as a computed proportion of",
+  "within two standard deviations of the benchmark of",
+  "allotted by",
+  "in order to fulfill",
+  "valued according to"
 );
 
 /* method of measurement */
@@ -130,7 +144,12 @@ array5 = new Array(
   "counting crows",
   "thread count",
   "drivel",
-  "my mood"
+  "my mood",
+  "quantifiable increments",
+  "the standard pie graph",
+  "12 parsecs",
+  "a Sagan",
+  "3 donkey-power"
 );
 
 /* this is relevant because */
@@ -162,7 +181,16 @@ array6 = new Array(
   "I think it's what management wants me to think about",
   "it has a logo and a tagline",
   "I heard it through the grapevine",
-  "the chicken pooped in the right bingo square"
+  "the chicken pooped in the right bingo square",
+  "why not? Really",
+  "there's a snake in my boots"
+  "importance and purpose can't always be inferred by management",
+  "you can be the ripest, juiciest apple in the world, and there's still going to be somebody who loves windows",
+  "people will only want to engage if it helps them solve problems",
+  "it is creative and I believe in it. Whatever THAT is",
+  "it is not something you can actually predict. It is something that will be determined after the fact",
+  "I am passionate about personalization",
+  "it becomes irrelevant inside results closely connected to management's queries"
 );
 
 /* completion date */
@@ -192,7 +220,11 @@ array7 = new Array(
   "sometime after everyone forgets that I said I'd do it",
   "every bit as important as the goal itself",
   "the midnight hour, when my love comes tumbling down",
-  "when the universe has reached a state of no thermodynamic free energy"
+  "when the universe has reached a state of no thermodynamic free energy",
+  "when Marion Crane takes a shower",
+  "when ET goes home",
+  "postponed until further notice",
+  "largely dependent upon support from management"
 );
 
 /* summary */
@@ -226,7 +258,17 @@ array8 = new Array(
   "Make it so",
   "So say we all",
   "Time flies like an arrow. Fruit flies like a banana",
-  "Now look what you've done"
+  "Now look what you've done",
+  "I won't be trapped by dogma - which is living with the results of other people's thinking",
+  "Unfortunately, however, I cannot refund the time you've spent reading this report",
+  "Live long and prosper",
+  "Peace out",
+  "Tag, you're it",
+  "Carpe diem",
+  "Later, Vader",
+  "This message will self destruct",
+  "I had better get off the toilet now",
+  "We're not the droids you're looking for"
 );
 
 function GenerateGoals() {
