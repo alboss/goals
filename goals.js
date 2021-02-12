@@ -283,7 +283,8 @@ array8 = new Array(
   "Later, Vader",
   "This message will self destruct",
   "I had better get off the toilet now",
-  "We're not the droids you're looking for"
+  "We're not the droids you're looking for",
+  "Put a bird on it"
 );
 
 function GenerateGoals() {
