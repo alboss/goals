@@ -58,7 +58,8 @@ array2 = new Array(
   "work harder",
   "work smarter, not harder",
   "empower",
-  "re-org"
+  "re-org",
+  "be key in the value-added solutions to our full cycle services"
 );
 
 /* means */
@@ -286,7 +287,8 @@ array8 = new Array(
   "This message will self destruct",
   "I had better get off the toilet now",
   "We're not the droids you're looking for",
-  "Put a bird on it"
+  "Put a bird on it",
+  "My God. It's full of stars"
 );
 
 function GenerateGoals() {
