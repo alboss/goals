@@ -21,7 +21,9 @@ var array1 = new Array(
   "Among my SMART goals for the coming year is to",
   "After careful consideration I've decided to",
   "In order to demonstrate my superior capabilities, I have resolved to",
-  "To reinforce the directorate guidance contribution to personal assigned tasks at hand, my actions will only slightly deviate from my original intentions in which I"
+  "To reinforce the directorate guidance contribution to personal assigned tasks at hand, my actions will only slightly deviate from my original intentions in which I",
+  "At the end of the day, I plan to give 110% to",
+  "I will circle back to"
 );
 
 /* verb */
@@ -51,7 +53,11 @@ array2 = new Array(
   "beep the nose of",
   "crack out on",
   "actuate",
-  "influence the workload of"
+  "influence the workload of",
+  "put a pin in",
+  "work harder",
+  "work smarter, not harder",
+  "empower"
 );
 
 /* means */
@@ -85,7 +91,10 @@ array3 = new Array(
   "fiscal responsibility",
   "investments in beanie babies",
   "gizmos developed",
-  "doing Agile - but doing it like Waterfall"
+  "doing Agile - but doing it like Waterfall",
+  "thinking outside the box",
+  "best practice",
+  "paradigm shift"
 );
 
 /* as measured by */
@@ -118,7 +127,8 @@ array4 = new Array(
   "within two standard deviations of the benchmark of",
   "allotted by",
   "in order to fulfill",
-  "valued according to"
+  "valued according to",
+  "raising the bar on"
 );
 
 /* method of measurement */
@@ -150,7 +160,9 @@ array5 = new Array(
   "the standard pie graph",
   "12 parsecs",
   "a Sagan",
-  "3 donkey-power"
+  "3 donkey-power",
+  "synergy",
+  "teamwork"
 );
 
 /* this is relevant because */
@@ -191,7 +203,8 @@ array6 = new Array(
   "it is creative and I believe in it. Whatever THAT is",
   "it is not something you can actually predict. It is something that will be determined after the fact",
   "I am passionate about personalization",
-  "it becomes irrelevant inside results closely connected to management's queries"
+  "it becomes irrelevant inside results closely connected to management's queries",
+  "it is what it is"
 );
 
 /* completion date */
@@ -225,7 +238,8 @@ array7 = new Array(
   "when Marion Crane takes a shower",
   "when ET goes home",
   "postponed until further notice",
-  "largely dependent upon support from management"
+  "largely dependent upon support from management",
+  "the next time you feel the need to reach out"
 );
 
 /* summary */
