@@ -57,7 +57,8 @@ array2 = new Array(
   "put a pin in",
   "work harder",
   "work smarter, not harder",
-  "empower"
+  "empower",
+  "re-org"
 );
 
 /* means */
@@ -94,7 +95,8 @@ array3 = new Array(
   "doing Agile - but doing it like Waterfall",
   "thinking outside the box",
   "best practice",
-  "paradigm shift"
+  "paradigm shift",
+  "mandatory fun"
 );
 
 /* as measured by */
@@ -234,7 +236,7 @@ array7 = new Array(
   "sometime after everyone forgets that I said I'd do it",
   "every bit as important as the goal itself",
   "the midnight hour, when my love comes tumbling down",
-  "when the universe has reached a state of no thermodynamic free energy",
+  "when the universe has reached a state of no-thermodynamic free energy",
   "when Marion Crane takes a shower",
   "when ET goes home",
   "postponed until further notice",
