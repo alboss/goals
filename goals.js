@@ -94,8 +94,8 @@ array3 = new Array(
   "gizmos developed",
   "doing Agile - but doing it like Waterfall",
   "thinking outside the box",
-  "best practice",
-  "paradigm shift",
+  "best practices",
+  "a paradigm shift",
   "mandatory fun"
 );
 
