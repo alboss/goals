@@ -291,7 +291,8 @@ array8 = new Array(
   "I had better get off the toilet now",
   "We're not the droids you're looking for",
   "Put a bird on it",
-  "My God. It's full of stars"
+  "My God. It's full of stars",
+  "I'm just here so I won't get fined"
 );
 
 function GenerateGoals() {
