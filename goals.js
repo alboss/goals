@@ -59,7 +59,8 @@ array2 = new Array(
   "work smarter, not harder",
   "empower",
   "re-org",
-  "be key in the value-added solutions to our full cycle services"
+  "be key in the value-added solutions to our full cycle services",
+  "operationalize"
 );
 
 /* means */
@@ -97,7 +98,8 @@ array3 = new Array(
   "thinking outside the box",
   "best practices",
   "a paradigm shift",
-  "mandatory fun"
+  "mandatory fun",
+  "a value-add with key deliverables"
 );
 
 /* as measured by */
@@ -165,7 +167,8 @@ array5 = new Array(
   "a Sagan",
   "3 donkey-power",
   "synergy",
-  "teamwork"
+  "teamwork",
+  "core competencies"
 );
 
 /* this is relevant because */
