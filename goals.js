@@ -60,7 +60,8 @@ array2 = new Array(
   "empower",
   "re-org",
   "be key in the value-added solutions to our full cycle services",
-  "operationalize"
+  "operationalize",
+  "solutionize"
 );
 
 /* means */
