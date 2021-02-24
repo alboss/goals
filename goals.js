@@ -298,7 +298,8 @@ array8 = new Array(
   "Never eat at a place called Mom's. Never play poker with a guy named 'Doc'",
   "Never solve a puzzle that opens the gates of Hell",
   "A motion to adjourn is always in order",
-  "I just survived another meeting that could have been an email"
+  "I just survived another meeting that could have been an email",
+  "Well, here I am. You have two more wishes for the genie"
 );
 
 function GenerateGoals() {
