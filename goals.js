@@ -23,7 +23,8 @@ var array1 = new Array(
   "In order to demonstrate my superior capabilities, I have resolved to",
   "To reinforce the directorate guidance contribution to personal assigned tasks at hand, my actions will only slightly deviate from my original intentions in which I",
   "At the end of the day, I plan to give 110% to",
-  "I will circle back to"
+  "I will circle back to",
+  "Here's how it is: I aim to"
 );
 
 /* verb */
@@ -276,7 +277,7 @@ array8 = new Array(
   "I see dead people",
   "You know what? I think life is like a cosmic hamburger, and each of us is just a sesame seed on the middle bun",
   "Be alert. We need more Lerts",
-  "It is forbidden to urinate into the wind",
+  "It is forbidden to urinate against the wind",
   "Make it so",
   "So say we all",
   "Time flies like an arrow. Fruit flies like a banana",
@@ -293,7 +294,11 @@ array8 = new Array(
   "We're not the droids you're looking for",
   "Put a bird on it",
   "My God. It's full of stars",
-  "I'm just here so I won't get fined"
+  "I'm just here so I won't get fined",
+  "Never eat at a place called Mom's. Never play poker with a guy named 'Doc'",
+  "Never solve a puzzle that opens the gates of Hell",
+  "A motion to adjourn is always in order",
+  "I just survived another meeting that could have been an email"
 );
 
 function GenerateGoals() {
