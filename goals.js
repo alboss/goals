@@ -24,7 +24,8 @@ var array1 = new Array(
   "To reinforce the directorate guidance contribution to personal assigned tasks at hand, my actions will only slightly deviate from my original intentions in which I",
   "At the end of the day, I plan to give 110% to",
   "I will circle back to",
-  "Here's how it is: I aim to"
+  "Here's how it is: I aim to",
+  "I will remember to"
 );
 
 /* verb */
@@ -62,7 +63,8 @@ array2 = new Array(
   "re-org",
   "be key in the value-added solutions to our full cycle services",
   "operationalize",
-  "solutionify"
+  "solutionify",
+  "map"
 );
 
 /* means */
@@ -101,7 +103,8 @@ array3 = new Array(
   "best practices",
   "a paradigm shift",
   "mandatory fun",
-  "a value-add with key deliverables"
+  "a value-add with key deliverables",
+  "quantitatives so completion conforms to definition"
 );
 
 /* as measured by */
@@ -136,6 +139,7 @@ array4 = new Array(
   "in order to fulfill",
   "valued according to",
   "raising the bar on"
+  "thus, adaptive scope creep is controlled for to avoid"
 );
 
 /* method of measurement */
@@ -170,7 +174,8 @@ array5 = new Array(
   "3 donkey-power",
   "synergy",
   "teamwork",
-  "core competencies"
+  "core competencies",
+  "unanticipated or non-contributory artifacts"
 );
 
 /* this is relevant because */
@@ -212,7 +217,8 @@ array6 = new Array(
   "it is not something you can actually predict. It is something that will be determined after the fact",
   "I am passionate about personalization",
   "it becomes irrelevant inside results closely connected to management's queries",
-  "it is what it is"
+  "it is what it is",
+  "it's the missing 9th rule for Elinor Ostrom's 8 rules for managing the commons"
 );
 
 /* completion date */
