@@ -138,7 +138,7 @@ array4 = new Array(
   "allotted by",
   "in order to fulfill",
   "valued according to",
-  "raising the bar on"
+  "raising the bar on",
   "thus, adaptive scope creep is controlled for to avoid"
 );
 
