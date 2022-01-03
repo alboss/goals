@@ -64,7 +64,12 @@ array2 = new Array(
   "be key in the value-added solutions to our full cycle services",
   "operationalize",
   "solutionify",
-  "map"
+  "map",
+  "provide",
+  "enable",
+  "facilitate",
+  "connect",
+  "imagine"
 );
 
 /* means */
@@ -104,7 +109,9 @@ array3 = new Array(
   "a paradigm shift",
   "mandatory fun",
   "a value-add with key deliverables",
-  "quantitatives so completion conforms to definition"
+  "quantitatives so completion conforms to definition",
+  "more immersive omni-channel experiences",
+  " meaningful relationships with business partners"
 );
 
 /* as measured by */
@@ -139,7 +146,8 @@ array4 = new Array(
   "in order to fulfill",
   "valued according to",
   "raising the bar on",
-  "thus, adaptive scope creep is controlled for to avoid"
+  "thus, adaptive scope creep is controlled for to avoid",
+  "renewing the collective optimism"
 );
 
 /* method of measurement */
@@ -175,7 +183,8 @@ array5 = new Array(
   "synergy",
   "teamwork",
   "core competencies",
-  "unanticipated or non-contributory artifacts"
+  "unanticipated or non-contributory artifacts",
+  "locating and mapping individuals and communities"
 );
 
 /* this is relevant because */
