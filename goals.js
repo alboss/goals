@@ -25,7 +25,8 @@ var array1 = new Array(
   "At the end of the day, I plan to give 110% to",
   "I will circle back to",
   "Here's how it is: I aim to",
-  "I will remember to"
+  "I will remember to",
+  "Here; hold my beer while I"
 );
 
 /* verb */
@@ -227,7 +228,10 @@ array6 = new Array(
   "I am passionate about personalization",
   "it becomes irrelevant inside results closely connected to management's queries",
   "it is what it is",
-  "it's the missing 9th rule for Elinor Ostrom's 8 rules for managing the commons"
+  "it's the missing 9th rule for Elinor Ostrom's 8 rules for managing the commons",
+  "it lets me check off the little box on the form",
+  "it looks cool on a Powerpoint slide",
+  "Utah did something sort of like it"
 );
 
 /* completion date */
@@ -262,7 +266,8 @@ array7 = new Array(
   "when ET goes home",
   "postponed until further notice",
   "largely dependent upon support from management",
-  "the next time you feel the need to reach out"
+  "the next time you feel the need to reach out",
+  "going to depend on whether or not somebody is willing to fund it"
 );
 
 /* summary */
