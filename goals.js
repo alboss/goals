@@ -112,7 +112,8 @@ array3 = new Array(
   "a value-add with key deliverables",
   "quantitatives so completion conforms to definition",
   "more immersive omni-channel experiences",
-  " meaningful relationships with business partners"
+  "meaningful relationships with business partners",
+  "a bigger boat"
 );
 
 /* as measured by */
@@ -185,7 +186,8 @@ array5 = new Array(
   "teamwork",
   "core competencies",
   "unanticipated or non-contributory artifacts",
-  "locating and mapping individuals and communities"
+  "locating and mapping individuals and communities",
+  "teeth"
 );
 
 /* this is relevant because */
@@ -319,7 +321,8 @@ array8 = new Array(
   "Never solve a puzzle that opens the gates of Hell",
   "A motion to adjourn is always in order",
   "I just survived another meeting that could have been an email",
-  "Well, here I am. You have two more wishes for the genie"
+  "Well, here I am. You have two more wishes for the genie",
+  "We're gonna need more FBI guys"
 );
 
 function GenerateGoals() {
