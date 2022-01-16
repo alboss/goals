@@ -322,7 +322,13 @@ array8 = new Array(
   "A motion to adjourn is always in order",
   "I just survived another meeting that could have been an email",
   "Well, here I am. You have two more wishes for the genie",
-  "We're gonna need more FBI guys"
+  "We're gonna need more FBI guys",
+“You could destroy your entire life in less than 10 texts if you wanted to”,
+“Water never really belongs to you, it’s just your turn to use it”,
+“A sleepwalking bed-wetter is a threat to everyone”,
+“Every person cremated is one less zombie we’ll have to worry about”,
+“Every child is trained by their parents for a world that is one generation out of date”,
+“Harry Potter was way too emotionally stable for a kid raised by people who hated him”
 );
 
 function GenerateGoals() {
