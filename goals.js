@@ -233,7 +233,7 @@ array6 = new Array(
   "it's the missing 9th rule for Elinor Ostrom's 8 rules for managing the commons",
   "it lets me check off the little box on the form",
   "it looks cool on a Powerpoint slide",
-  "Utah did something sort of like it"'
+  "Utah did something sort of like it",
   "it's a straw man for a new paradigm"
 );
 
