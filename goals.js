@@ -162,7 +162,7 @@ array5 = new Array(
   "factoring bus numbers",
   "a couple of style sheets",
   "a certified tea shaman",
-  "binding the peoplehooves data to the snuurgenfluuge",
+  "binding the peoplehooves data to the snüürgenflüüge",
   "uncoupling the Heisenberg compensators",
   "recalibrating the oscillating Franistadt",
   "a need-to-know scale",
