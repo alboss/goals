@@ -16,7 +16,7 @@ var array1 = new Array(
   "I do solemnly swear to",
   "So, here's the plan: I",
   "Management promised somebody I would",
-  "In order to serve our cutomers better, I will",
+  "In order to serve our customers better, I will",
   "By Grapthar's hammer, by the suns of Worvan, I shall",
   "Among my SMART goals for the coming year is to",
   "After careful consideration I've decided to",
