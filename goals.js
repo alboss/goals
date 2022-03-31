@@ -141,7 +141,7 @@ array4 = new Array(
   "clouded with",
   "disguised by",
   "which I will make sound convincing with",
-  "dazzing because of",
+  "dazzling because of",
   "as a computed proportion of",
   "within two standard deviations of the benchmark of",
   "allotted by",
