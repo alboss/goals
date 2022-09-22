@@ -245,7 +245,8 @@ array6 = new Array(
   "it looks cool on a Powerpoint slide",
   "Utah did something sort of like it",
   "it's a straw man for a new paradigm",
-  "it looks great on a performance assessment"
+  "it looks great on a performance assessment",
+  "I made up a hashtag for it"
 );
 
 /* completion date */
