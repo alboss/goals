@@ -70,7 +70,8 @@ array2 = new Array(
   "enable",
   "facilitate",
   "connect",
-  "imagine"
+  "imagine",
+  "create a Center of Excellence for"
 );
 
 /* means */
@@ -113,7 +114,8 @@ array3 = new Array(
   "quantitatives so completion conforms to definition",
   "more immersive omni-channel experiences",
   "meaningful relationships with business partners",
-  "a bigger boat"
+  "a bigger boat",
+  "communities of practice"
 );
 
 /* as measured by */
@@ -187,7 +189,8 @@ array5 = new Array(
   "core competencies",
   "unanticipated or non-contributory artifacts",
   "locating and mapping individuals and communities",
-  "teeth"
+  "teeth",
+  "the number of highlight banners available"
 );
 
 /* this is relevant because */
@@ -234,7 +237,8 @@ array6 = new Array(
   "it lets me check off the little box on the form",
   "it looks cool on a Powerpoint slide",
   "Utah did something sort of like it",
-  "it's a straw man for a new paradigm"
+  "it's a straw man for a new paradigm",
+  "it looks great on a performance assessment"
 );
 
 /* completion date */
@@ -270,7 +274,8 @@ array7 = new Array(
   "postponed until further notice",
   "largely dependent upon support from management",
   "the next time you feel the need to reach out",
-  "going to depend on whether or not somebody is willing to fund it"
+  "going to depend on whether or not somebody is willing to fund it",
+  "a completely arbitrary date said once by somebody important"
 );
 
 /* summary */
@@ -318,7 +323,8 @@ array8 = new Array(
   "Put a bird on it",
   "My God. It's full of stars",
   "I'm just here so I won't get fined",
-  "Never eat at a place called Mom's. Never play poker with a guy named 'Doc'",
+  "Never eat at a place called Mom's",
+  "Never play poker with a guy named 'Doc'",
   "Never solve a puzzle that opens the gates of Hell",
   "A motion to adjourn is always in order",
   "I just survived another meeting that could have been an email",
