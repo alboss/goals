@@ -154,7 +154,8 @@ array4 = new Array(
   "valued according to",
   "raising the bar on",
   "thus, adaptive scope creep is controlled for to avoid",
-  "renewing the collective optimism"
+  "renewing the collective optimism",
+  "put into pretty charts and colored graphs based on"
 );
 
 /* method of measurement */
@@ -343,7 +344,8 @@ array8 = new Array(
   "Every child is trained by their parents for a world that is one generation out of date",
   "Harry Potter was way too emotionally stable for a kid raised by people who hated him",
   "Why should I kill myself worrying? I'll end up just as dead",
-  "You know what kind of plan never fails? No plan. No plan at all. You know why? Because life cannot be planned"
+  "You know what kind of plan never fails? No plan. No plan at all. You know why? Because life cannot be planned",
+  "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die."
 );
 
 function GenerateGoals() {
