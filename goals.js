@@ -283,7 +283,8 @@ array7 = new Array(
   "largely dependent upon support from management",
   "the next time you feel the need to reach out",
   "going to depend on whether or not somebody is willing to fund it",
-  "a completely arbitrary date said once by somebody important"
+  "a completely arbitrary date said once by somebody important",
+  "a couple weeks after I quit working here"
 );
 
 /* summary */
