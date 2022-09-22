@@ -194,7 +194,9 @@ array5 = new Array(
   "locating and mapping individuals and communities",
   "teeth",
   "the number of highlight banners available",
-  "a dashboard"
+  "a dashboard",
+  "farce. Absolute and complete farce",
+  "imaginary numbers"
 );
 
 /* this is relevant because */
