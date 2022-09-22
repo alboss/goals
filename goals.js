@@ -26,7 +26,8 @@ var array1 = new Array(
   "I will circle back to",
   "Here's how it is: I aim to",
   "I will remember to",
-  "Here; hold my beer while I"
+  "Here; hold my beer while I",
+  "In order to add value, I"
 );
 
 /* verb */
@@ -71,7 +72,9 @@ array2 = new Array(
   "facilitate",
   "connect",
   "imagine",
-  "create a Center of Excellence for"
+  "create a Center of Excellence for",
+  "invent a new acronym for",
+  "without using any words found in a dictionary, talk about"
 );
 
 /* means */
@@ -190,7 +193,8 @@ array5 = new Array(
   "unanticipated or non-contributory artifacts",
   "locating and mapping individuals and communities",
   "teeth",
-  "the number of highlight banners available"
+  "the number of highlight banners available",
+  "a dashboard"
 );
 
 /* this is relevant because */
@@ -335,7 +339,9 @@ array8 = new Array(
   "A sleepwalking bed-wetter is a threat to everyone",
   "Every person cremated is one less zombie we'll have to worry about",
   "Every child is trained by their parents for a world that is one generation out of date",
-  "Harry Potter was way too emotionally stable for a kid raised by people who hated him"
+  "Harry Potter was way too emotionally stable for a kid raised by people who hated him",
+  "Why should I kill myself worrying? I'll end up just as dead",
+  "You know what kind of plan never fails? No plan. No plan at all. You know why? Because life cannot be planned"
 );
 
 function GenerateGoals() {
