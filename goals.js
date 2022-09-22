@@ -74,7 +74,7 @@ array2 = new Array(
   "imagine",
   "create a Center of Excellence for",
   "invent a new acronym for",
-  "(without using any words found in a dictionary), talk about"
+  "(without using any words found in a dictionary) talk about"
 );
 
 /* means */
