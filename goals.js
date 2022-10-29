@@ -347,7 +347,9 @@ array8 = new Array(
   "Harry Potter was way too emotionally stable for a kid raised by people who hated him",
   "Why should I kill myself worrying? I'll end up just as dead",
   "You know what kind of plan never fails? No plan. No plan at all. You know why? Because life cannot be planned",
-  "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die."
+  "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die",
+  "No one has tasted the whole periodic table and lived to tell the tale",
+  "Twix have an endoskeleton and M&M's have an exoskeleton"
 );
 
 function GenerateGoals() {
