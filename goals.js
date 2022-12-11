@@ -349,7 +349,10 @@ array8 = new Array(
   "You know what kind of plan never fails? No plan. No plan at all. You know why? Because life cannot be planned",
   "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die",
   "No one has tasted the whole periodic table and lived to tell the tale",
-  "Twix have an endoskeleton and M&M's have an exoskeleton"
+  "Twix have an endoskeleton and M&M's have an exoskeleton",
+  "Cows are remarkably calm, considering that for them the whole floor is food",
+  "Never invite a moody octopus to your party. he'll play four damn acoustic guitars at once",
+  "May your coffee be strong and your Monday be short"
 );
 
 function GenerateGoals() {
